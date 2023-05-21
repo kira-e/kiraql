@@ -1,0 +1,11 @@
+[package]
+name = "ligma-gql"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-cors = "0.6.4"
+actix-web = "4.3.1"
+actix-web-lab = "0.19.1"
+async-graphql = { version ="5.0.8", features = ["playground"] }
+async-graphql-actix-web = "5.0.8"

@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\ligma-gql\\Cargo.toml",
+    ]
+}
